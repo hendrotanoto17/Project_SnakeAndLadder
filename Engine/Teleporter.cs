@@ -34,6 +34,6 @@ namespace Engine
       this.tail=tail;
     }
     
-    public abstract MovePlayer(Player p);
+    public abstract void MovePlayer(Player p);
   }
 }
