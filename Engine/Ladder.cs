@@ -8,6 +8,7 @@ namespace Engine
     
     public override void MovePlayer(Player p){
       //set posisi pemain pada head
+      p.setPosition(head);
     }
   }
 }
