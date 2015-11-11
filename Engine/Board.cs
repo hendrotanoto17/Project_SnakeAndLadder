@@ -37,14 +37,14 @@ namespace Engine
           count++;
       }
     }
-  /*    private boolean isValidSnakeLadder(Tile t1,Tile t2){
+      private boolean isValidSnakeLadder(Tile t1,Tile t2){
         if(t1.getSnakeladder()!=null||t2.getSnakeladder()!=null){
             return false;
         }
         else{
             return true;
         }
-    }*/
+    }
 
     public Tile[] getTiles() {
         return tiles.GetNumber;
